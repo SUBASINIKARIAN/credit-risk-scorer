@@ -1,0 +1,20 @@
+# large data files — never push these
+*.csv
+*.parquet
+*.feather
+
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+env/
+venv/
+
+# jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

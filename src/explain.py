@@ -45,6 +45,14 @@ FEATURE_LABELS = {
     'home_ownership': 'home ownership status',
     'verification_status': 'income verification',
     'term': 'loan term',
+    'grade': 'loan grade',
+    'sub_grade': 'loan sub-grade',
+    'inq_last_6mths': 'recent credit inquiries',
+    'emp_length': 'employment length',
+    'fico_range_high': 'FICO score (upper bound)',
+    'earliest_cr_line': 'credit history length',
+    'monthly_debt_burden': 'monthly debt burden',
+    'fico_range': 'FICO score range',
 }
 
 
